@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="homescreen_padding">5dp</dimen>
+    <dimen name="homescreen_buttons_padding">5dp</dimen>
+    <dimen name="homescreen_button_size">85dp</dimen>
+    <dimen name="homescreen_button_margins">25dp</dimen>
+    <dimen name="editscreen_button_size">50dp</dimen>
+    <dimen name="editscreen_button_margin">10dp</dimen>
+    <dimen name="editscreen_button_padding">5dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="divider_margin">10dp</dimen>
+</resources>
